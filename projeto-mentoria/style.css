@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Praise&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+body{
+    overflow: hidden;
+}
+
+main{
+    background-image: url('wallpaper.jfif');
+    text-align: center;
+    background-repeat: repeat;
+    margin: auto;
+    height: 625px;
+}
+
+#btn{
+    background-color: rgba(0, 0, 0, 0.6);
+    border: 2px solid white;
+    color: white;
+    border-radius: 10px;
+    font-family: 'EB Garamond', serif;
+}
+
+#btn:hover{
+    background-color:#f0b5ba;
+    color: black;
+    border: 2px solid black;
+
+}
+
+h1{
+    font-family:'Dancing Script', cursive;
+    color: white;
+    padding-top: 50px;
+}
+
+h1:hover{
+    color: #f0b5ba;
+}
